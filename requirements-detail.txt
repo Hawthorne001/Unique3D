@@ -2,7 +2,7 @@ accelerate==0.29.2
 datasets==2.18.0
 diffusers==0.27.2
 fire==0.6.0
-gradio==4.32.0
+gradio==4.44.0
 jaxtyping==0.2.29
 numba==0.59.1
 numpy==1.26.4
@@ -20,7 +20,7 @@ pytorch3d==0.7.5
 rembg==2.0.56
 torch==2.1.0+cu121
 torch_scatter==2.1.2
-tqdm==4.64.1
+tqdm==4.66.3
 transformers==4.39.3
 trimesh==4.3.0
 typeguard==2.13.3
